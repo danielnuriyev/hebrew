@@ -10,3 +10,5 @@ A blog about the Hebrew language. I will present useful information for those wh
 
 [Rashi Script](rashi-script.md)
 
+[Hebrew Cursive](hebrew-cursive.md)
+
