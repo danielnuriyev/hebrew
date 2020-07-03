@@ -12,3 +12,4 @@ A blog about the Hebrew language. I will present useful information for those wh
 
 [Hebrew Cursive](hebrew-cursive.md)
 
+[Hebrew Fonts](hebrew-fonts.md)
