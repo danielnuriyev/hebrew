@@ -18,4 +18,6 @@ A blog about the Hebrew language. I will present useful information for those wh
 
 [Hebrew Pronunciation: Major Types](hebrew-pronunciation-types.md)
 
+[Hebrew Pronunciation: Yemenite](hebrew-pronunciation-yemenite.md)
+
 [Resources for Learners](links.md)
