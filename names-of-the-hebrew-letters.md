@@ -1,3 +1,5 @@
+[Hebrew](../README.md) > Names of the Hebrew Letters
+
 # Names of the Hebrew Letters
 
 Every of the 22 Hebrew letters has a name and each name has a meaning. In some cases the meaning is obvious. For example, the name of the second letter ב (bet) obviously means house. In some cases the meaning is obvious if you know Hebrew and related languages a bit deeper. In this case it is obvious that the first letter א (alef) means a bull. In other cases the meaning is obvious but may be wrong. For example, I was sure that the third letter ג (gimel) meant a camel but some linguists think that it was some kind of stick or weapon.

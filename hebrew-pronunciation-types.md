@@ -1,3 +1,5 @@
+[Hebrew](../README.md) > Hebrew Pronunciation: Major Types
+
 # Hebrew Pronunciation: Major Types
 
 Currently we have the following major types:

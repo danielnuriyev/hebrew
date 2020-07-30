@@ -1,3 +1,5 @@
+[Hebrew](../README.md) > Rashi Script
+
 # Rashi Script
 
 Rashi Script is a Hebrew script used in printing Rashi's commentary on Tanakh (the Hebrew Bible) and Gemara (legal discussions based on Mishna - the fundamental legal work).

@@ -1,3 +1,5 @@
+[Hebrew](../README.md) > Brief History of the Hebrew Letters
+
 # Brief History of the Hebrew Letters
 
 Letters that we use for Hebrew are [Aramaic](http://en.wikipedia.org/wiki/Aramaic_language). The [original Hebrew letters](http://en.wikipedia.org/wiki/Paleo-Hebrew_alphabet) were replaced after the [Babylonian captivity](http://en.wikipedia.org/wiki/Babylonian_captivity) by the prophet [Ezra](http://en.wikipedia.org/wiki/Ezra).

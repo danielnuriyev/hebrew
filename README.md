@@ -21,3 +21,5 @@ A blog about the Hebrew language. I will present useful information for those wh
 [Hebrew Pronunciation: Yemenite](hebrew-pronunciation-yemenite.md)
 
 [Resources for Learners](links.md)
+
+© 2009-2020 Daniel Nuriyev

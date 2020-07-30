@@ -1,3 +1,5 @@
+[Hebrew](../README.md) > Hebrew Pronunciation: Yemenite
+
 # Hebrew Pronunciation: Yemenite
 
 The [Yemenite Jews](https://en.wikipedia.org/wiki/Yemenite_Jews) are one of the earliest Jewish communities outside of Israel. Historic sources indicate that this community was in touch with the Jewish communities in Egypt, Israel, Mesopotamia and Persia but had its own legal decisions and traditions, including the pronunciation of Hebrew. Now most Yemenite Jews live in Israel, speak Israeli Hebrew and use the Yemenite pronunciation in the religious context only.
@@ -218,5 +220,4 @@ In the end of a word it is pronounced as uw: עָלוּ - *oluw* - they went u
 
 ג - as in Sana'a gimel without dagesh is pronounced as  as the Arabic ق followed by خ. See Sana'a above.
 
-TODO: habban, summary, table of differences, table of sounds, stress in mishna, w- (ch 13), reading niqqud vs their niqqudim (bavli, teymani, oral), wiki**\
-**
+TODO: habban, summary, table of differences, table of sounds, stress in mishna, w- (ch 13), reading niqqud vs their niqqudim (bavli, teymani, oral), wiki
