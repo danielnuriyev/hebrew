@@ -4,7 +4,7 @@ Letters that we use for Hebrew are [Aramaic](http://en.wikipedia.org/wiki/Arama
 
 The original Hebrew letters:
 
-[![](https://2.bp.blogspot.com/-wZEnn-me4P0/UcjZ4TF0ICI/AAAAAAAAAFE/D4tDmDKV-eQ/s400/paleo.jpg)](http://2.bp.blogspot.com/-wZEnn-me4P0/UcjZ4TF0ICI/AAAAAAAAAFE/D4tDmDKV-eQ/s1600/paleo.jpg)
+[![](images/paleo.jpg)
 
 The original Hebrew alphabet was called עברי or לִיבּוֹנָאָה in [Talmud Bavli](http://en.wikipedia.org/wiki/Talmud#Talmud_Bavli_.28Babylonian_Talmud.29), דַעַץ\רעץ in [Talmud Yerushalmi](http://en.wikipedia.org/wiki/Jerusalem_Talmud). I do not know the origin of דעץ\רעץ. The origin of ליבונאה is also unknown, although, in my opinion, it may point to the Phoenician origin of the alphabet, since Phoenicians originated in Lebanon.
 
