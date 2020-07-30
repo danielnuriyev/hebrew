@@ -37,3 +37,7 @@ Quite a lot of lectures by Moredechai (Moti) Kedar about the Middle East and Is
 Guy Bechor also talks about the Middle East but less academically:
 
 <https://www.youtube.com/channel/UCJq9XMrpxZbVxet6BXfbW1g/videos>
+
+## Sites
+
+[The Academy of the Hebrew Language](https://hebrew-academy.org.il/): The site is in Hebrew and it has everything: history, grammar, pronunciation, words etc.
