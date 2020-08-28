@@ -1,4 +1,4 @@
-[Hebrew](../README.md) > Brief History of the Hebrew Letters
+[Hebrew](../master/README.md) > Brief History of the Hebrew Letters
 
 # Brief History of the Hebrew Letters
 
