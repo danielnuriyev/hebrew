@@ -1,4 +1,4 @@
-[Hebrew](../README.md) > Hebrew Resources for Learners
+[Hebrew](../master/README.md) > Hebrew Resources for Learners
 
 # Hebrew Resources for Learners
 
