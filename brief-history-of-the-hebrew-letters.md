@@ -20,7 +20,7 @@ Has the original Hebrew alphabet disappeared? No. It is still used by [Samarita
 
 Samaritan alphabet:
 
-[![](https://4.bp.blogspot.com/-iGqeZAV4gkg/UckEh9R8X-I/AAAAAAAAAFU/zbHIadvWXKA/s400/samaritan.gif)](http://4.bp.blogspot.com/-iGqeZAV4gkg/UckEh9R8X-I/AAAAAAAAAFU/zbHIadvWXKA/s1600/samaritan.gif)
+[![](images/samaritan.gif)
 
 And it is even still used by us! At least in one case: on the Israeli one shekel coin:
 
