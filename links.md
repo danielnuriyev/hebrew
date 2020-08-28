@@ -43,3 +43,5 @@ Guy Bechor also talks about the Middle East but less academically:
 ## Sites
 
 [The Academy of the Hebrew Language](https://hebrew-academy.org.il/): The site is in Hebrew and it has everything: history, grammar, pronunciation, words etc.
+
+[עברית שפה קשה])(http://hebrewlog.blogspot.com/) - an old blog about various topics in Hebrew in Hebrew.
