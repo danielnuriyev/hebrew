@@ -42,8 +42,10 @@ Guy Bechor also talks about the Middle East but less academically:
 
 ## Sites
 
-[The Academy of the Hebrew Language](https://hebrew-academy.org.il/): The site is in Hebrew and it has everything: history, grammar, pronunciation, words etc.
+[The Academy of the Hebrew Language](https://hebrew-academy.org.il/): The site is `in Hebrew` and it has everything: history, grammar, pronunciation, words etc.
 
-[עברית שפה קשה](http://hebrewlog.blogspot.com/) - an old blog about various topics in Hebrew in Hebrew.
+[עברית שפה קשה](http://hebrewlog.blogspot.com/) - an old blog about various topics in Hebrew `in Hebrew`.
 
-[השפה העברית](https://www.safa-ivrit.org/) - a site about Hebrew in Hebrew
+[השפה העברית](https://www.safa-ivrit.org/) - a site about Hebrew `in Hebrew`
+
+[רגע של עברית](https://sites.google.com/site/anatcannon1/home) - key facts about Hebrew `in Hebrew` 
