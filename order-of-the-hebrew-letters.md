@@ -1,4 +1,4 @@
-[Hebrew](../README.md) > Order of the Hebrew Letters
+[Hebrew](../master/README.md) > Order of the Hebrew Letters
 
 # Order of the Hebrew Letters
 
@@ -10,6 +10,6 @@ We do not know the order of the Proto-Sinaitic script. But we do know the order 
 
 Ugaritic letters on a tablet found in Ugarit:
 
-[![](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F04%2F22_alphabet.jpg&container=blogger&gadget=a&rewriteMime=image%2F*&fpt=7bcfbce29e)](http://upload.wikimedia.org/wikipedia/commons/0/04/22_alphabet.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/0/04/22_alphabet.jpg)
 
 This is a good explanation and correlation between Hebrew and Ugaritic: <http://www.ancient-hebrew.org/22_alphabet.html>
