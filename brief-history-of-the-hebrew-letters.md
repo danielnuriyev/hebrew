@@ -24,13 +24,13 @@ Samaritan alphabet:
 
 And it is even still used by us! At least in one case: on the Israeli one shekel coin:
 
-[![](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F2%2F2d%2FNis_1_sheqel.png&container=blogger&gadget=a&rewriteMime=image%2F*&fpt=7bcfbce29e)](http://upload.wikimedia.org/wikipedia/commons/2/2d/Nis_1_sheqel.png)
+[![](http://upload.wikimedia.org/wikipedia/commons/2/2d/Nis_1_sheqel.png)
 
 Every letter of the adopted Aramaic alphabet has precise specifications of how to write it, which is necessary for preservation of Torah. But even with the specifications, there are four styles: beys yosef, ari, sefaradi, teymoni.
 
 This picture shows some of them:
 
-[![](https://1.bp.blogspot.com/-HSvX9mxO6kw/UdI9HzjdJwI/AAAAAAAAAFk/b7PLYx0JUAY/s400/ktav.jpg)](http://1.bp.blogspot.com/-HSvX9mxO6kw/UdI9HzjdJwI/AAAAAAAAAFk/b7PLYx0JUAY/s296/ktav.jpg)
+[![](images/scripts.jpg)
 
 And, besides the letters with crowns that are used for Torah, we have letters without crowns, the "Rashi" script, the handwritten script, various modern print and  computer fonts.
 
