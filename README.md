@@ -24,4 +24,6 @@ A blog about the Hebrew language. I will present useful information for those wh
 
 [פירוש לשוני של י-ה-ו-ה](y-h-w-h.md)
 
+[המשמעות של המילה תורה](y-r-y.md)
+
 © 2009-2020 Daniel Nuriyev
