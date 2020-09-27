@@ -22,4 +22,6 @@ A blog about the Hebrew language. I will present useful information for those wh
 
 [Resources for Learners](links.md)
 
+[פירוש לשוני של י-ה-ו-ה](y-h-w-h.md)
+
 © 2009-2020 Daniel Nuriyev
