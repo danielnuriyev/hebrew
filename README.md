@@ -26,4 +26,6 @@ A blog about the Hebrew language. I will present useful information for those wh
 
 [המשמעות של המילה תורה](y-r-y.md)
 
+[ערבית בתורה](arabic-in-hebrew.md)
+
 © 2009-2020 Daniel Nuriyev
