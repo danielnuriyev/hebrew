@@ -48,8 +48,17 @@ Some old videos about Hebrew in Hebrew:
 
 [The Academy of the Hebrew Language](https://hebrew-academy.org.il/): The site is `in Hebrew` and it has everything: history, grammar, pronunciation, words etc.
 
+[Hebrew Language Detective](https://www.balashon.com/) - various interesting topics about Hebrew
+
 [עברית שפה קשה](http://hebrewlog.blogspot.com/) - an old blog about various topics in Hebrew `in Hebrew`.
 
 [השפה העברית](https://www.safa-ivrit.org/) - a site about Hebrew `in Hebrew`
 
-[רגע של עברית](https://sites.google.com/site/anatcannon1/home) - key facts about Hebrew `in Hebrew` 
+[רגע של עברית](https://sites.google.com/site/anatcannon1/home) - key facts about Hebrew `in Hebrew`
+
+More in depth stuff in Hebrew:
+
+http://tora.us.fm/tnk1/ljon/index.html
+
+http://learn.snunit.k12.il/snunit/lashon/upload/database/
+
