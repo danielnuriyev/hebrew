@@ -28,4 +28,4 @@ A blog about the Hebrew language. I will present useful information for those wh
 
 [ערבית בתורה](arabic-in-hebrew.md)
 
-© 2009-2020 Daniel Nuriyev
+© 2009-2022 Daniel Nuriyev
