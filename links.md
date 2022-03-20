@@ -54,7 +54,9 @@ Some old videos about Hebrew in Hebrew:
 
 [השפה העברית](https://www.safa-ivrit.org/) - a site about Hebrew `in Hebrew`
 
-[רגע של עברית](https://sites.google.com/site/anatcannon1/home) - key facts about Hebrew `in Hebrew`
+[רגע של עברית ](https://sites.google.com/site/anatcannon1/home) - key facts about Hebrew `in Hebrew`
+
+[בלוג השפה העברית](https://blog.ravmilim.co.il/)
 
 More in depth stuff in Hebrew:
 
